@@ -1004,7 +1004,7 @@ h6 {
   content: "";
   height: 100%;
   width: 0;
-  background: linear-gradient(to right, #fa4e0a, #f8360a);
+  background: linear-gradient(to right, #1fa366, #f8360a);
   position: absolute;
   bottom: 0;
   right: 0;
@@ -1362,7 +1362,7 @@ h6 {
   content: "";
   height: 100%;
   width: 0;
-  background: linear-gradient(to right, #fa4e0a, #f8360a);
+  background: linear-gradient(to right, #1fa366, #f8360a);
   position: absolute;
   bottom: 0;
   right: 0;
@@ -3521,7 +3521,7 @@ div#wrapper.open > .offcanvas-mask {
   right: 20px;
   text-align: center;
   z-index: 9999;
-  background-image: linear-gradient(to top, #fa4e0a, #1fa366);
+  background-image: linear-gradient(to top, #1fa366, #1fa366);
   border: none;
   color: #ffffff;
   display: -webkit-box;
@@ -10574,7 +10574,7 @@ div#wrapper.open > .offcanvas-mask {
   content: "";
   height: 100%;
   width: 0;
-  background: linear-gradient(to right, #fa4e0a, #f8360a);
+  background: linear-gradient(to right, #1fa366, #f8360a);
   position: absolute;
   bottom: 0;
   right: 0;
