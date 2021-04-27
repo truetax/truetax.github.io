@@ -3087,7 +3087,7 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
 .topbar-right .header-right-button .header-btn {
   display: block;
   color: #fff;
-  background-image: linear-gradient(to right, #ff5e17, #1fa366);
+  background-image: linear-gradient(to right, #229a63, #1fa366);
   font-size: 16px;
   padding: 10px 30px;
   border: none;
@@ -3149,7 +3149,7 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
 .topbar-right2 ul .header-right-button .header-btn {
   display: block;
   color: #fff;
-  background-image: linear-gradient(to right, #ff5e17, #1fa366);
+  background-image: linear-gradient(to right, #229a63, #1fa366);
   font-size: 16px;
   font-weight: 500;
   padding: 13px 25px 10px 25px;
@@ -3543,7 +3543,7 @@ div#wrapper.open > .offcanvas-mask {
   content: "";
   height: 100%;
   width: 100%;
-  background: linear-gradient(to top, #1fa366, #ff5e17);
+  background: linear-gradient(to top, #1fa366, #229a63);
   position: absolute;
   bottom: 0;
   right: 0;
@@ -5206,7 +5206,7 @@ div#wrapper.open > .offcanvas-mask {
   display: inline-block;
   color: #fff;
   font-size: 16px;
-  background-image: linear-gradient(to right, #ff5e17, #1fa366);
+  background-image: linear-gradient(to right, #229a63, #1fa366);
   padding: 14px 48px 14px 28px;
   border: none;
   border-radius: 50px;
@@ -5328,7 +5328,7 @@ div#wrapper.open > .offcanvas-mask {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
-  background-image: linear-gradient(to right, #1fa366, #ff5e17);
+  background-image: linear-gradient(to right, #1fa366, #229a63);
   padding: 13px 50px 13px 30px;
   border: none;
   border-radius: 4px;
